@@ -7,7 +7,7 @@ const PORT = process.env.PORT || 3000;
 
 // توکن ربات تلگرام (از @BotFather گرفته شده)
 const TELEGRAM_BOT_TOKEN = process.env.TELEGRAM_BOT_TOKEN || '8313232626:AAGRR0Z1I1vwyqXnAvV39NX0Y18AaAKh0jc';
-const CHANNEL_USERNAME = process.env.CHANNEL_USERNAME || 'V2raywxyzbot';
+const CHANNEL_USERNAME = process.env.CHANNEL_USERNAME || 'https://t.me/+3FkY9qe55zw3YjJk';
 
 // ایجاد ربات تلگرام
 let bot = null;
